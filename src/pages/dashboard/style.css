@@ -1,0 +1,15 @@
+.input-field {
+    padding: 10px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    outline: none;
+    font-size: 16px;
+    transition: border-color 0.3s;
+    width: 200px;
+    height: 25px;
+}
+
+.candidate {
+    position: absolute; 
+    top: 274px;
+}
